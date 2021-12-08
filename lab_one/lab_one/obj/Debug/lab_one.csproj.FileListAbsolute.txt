@@ -1,0 +1,15 @@
+C:\Users\vadim_25\source\repos\lab_one\lab_one\obj\Debug\lab_one.csproj.AssemblyReference.cache
+C:\Users\vadim_25\source\repos\lab_one\lab_one\obj\Debug\lab_one.csproj.SuggestedBindingRedirects.cache
+C:\Users\vadim_25\source\repos\lab_one\lab_one\obj\Debug\lab_one.FormFour.resources
+C:\Users\vadim_25\source\repos\lab_one\lab_one\obj\Debug\lab_one.FormThree.resources
+C:\Users\vadim_25\source\repos\lab_one\lab_one\obj\Debug\lab_one.FormMain.resources
+C:\Users\vadim_25\source\repos\lab_one\lab_one\obj\Debug\lab_one.FormOne.resources
+C:\Users\vadim_25\source\repos\lab_one\lab_one\obj\Debug\lab_one.Properties.Resources.resources
+C:\Users\vadim_25\source\repos\lab_one\lab_one\obj\Debug\lab_one.FormTwo.resources
+C:\Users\vadim_25\source\repos\lab_one\lab_one\obj\Debug\lab_one.csproj.GenerateResource.cache
+C:\Users\vadim_25\source\repos\lab_one\lab_one\obj\Debug\lab_one.csproj.CoreCompileInputs.cache
+C:\Users\vadim_25\source\repos\lab_one\lab_one\obj\Debug\lab_one.exe
+C:\Users\vadim_25\source\repos\lab_one\lab_one\obj\Debug\lab_one.pdb
+C:\Users\vadim_25\source\repos\lab_one\lab_one\bin\Debug\lab_one.exe.config
+C:\Users\vadim_25\source\repos\lab_one\lab_one\bin\Debug\lab_one.exe
+C:\Users\vadim_25\source\repos\lab_one\lab_one\bin\Debug\lab_one.pdb
